@@ -1,0 +1,35 @@
+    1  history
+    2  pwd
+    3  ls
+    4  git clone https://github.com/DouglasGraeff/LABINFO22-23-final.git
+    5  pwd
+    6  ls
+    7  cd ~
+    8  pwd
+    9  cd MediumorchilAbleProblems
+   10  cd MediumorchidAbleProblems
+   11  pwd
+   12  cat README.md
+   13  ls
+   14  duplicate README.md READMEcopy.md
+   15  list
+   16  cp README.md READMEcopy.md
+   17  ls
+   18  cd LABINFO22-23-final
+   19  vi index.html
+   20  touch index.html
+   21  ls
+   22  vim.out index.html
+   23  vim.out
+   24  vi index.html
+   25  ls
+   26  cat index.html
+   27  git add --all
+   28  git commit -m "Criação do ficheiro index.html"
+   29  git config --global user.email  douglasgraeff@ua.pt
+   30  git config --global user.name DouglasGraeff
+   31  git commit -m "Criação do ficheiro index.html"
+   32  git push origin master
+   33  git push origin main
+   34  git push origin main
+   35  history >  comandosNoServidor.txt
